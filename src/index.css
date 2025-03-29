@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: black;
+  color: white;
+}
+button {
+  cursor: pointer;
+  transition: background 0.3s;
+}
+button:hover {
+  opacity: 0.8;
+}
